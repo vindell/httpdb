@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: httpdb-handler-mina
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: vindell
+Specification-Title: httpdb-handler-mina
+Implementation-Vendor-Id: com.github.vindell
+Build-Jdk: 1.8.0_60
+Specification-Version: 1.0
+Implementation-URL: https://github.com/vindell/httpdb-handler-mina/htt
+ pdb-handler/httpdb-handler-mina
+Created-By: Maven Integration for Eclipse
+
